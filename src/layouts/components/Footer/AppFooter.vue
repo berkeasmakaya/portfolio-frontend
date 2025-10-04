@@ -23,14 +23,14 @@
             class="text-gray-medium group-hover:text-blue-dark transition-all duration-300 group-hover:scale-110"
           />
         </a>
-        <a href="https://www.x.com/asmakaya_" target="_blank" class="group">
+        <a href="https://x.com/AsmakayaBerke" target="_blank" class="group">
           <font-awesome-icon
             icon="fa-brands fa-x-twitter"
             size="2xl"
             class="text-gray-medium group-hover:text-blue-dark transition-all duration-300 group-hover:scale-110"
           />
         </a>
-        <a href="https://www.linkedin.com/in/berkeasmakaya/" target="_blank" class="group">
+        <a href="https://www.linkedin.com/in/berkeasmakaya33/" target="_blank" class="group">
           <font-awesome-icon
             icon="fa-brands fa-linkedin"
             size="2xl"
